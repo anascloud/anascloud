@@ -71,16 +71,6 @@ class AnasBinSabiet extends SeniorEngineer
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-
-<img width="96%" src="https://github-profile-trophy.vercel.app/?username=anascloud&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" />
-
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -202,6 +192,6 @@ class AnasBinSabiet extends SeniorEngineer
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" /><br />
 <sub>crafted with ♥ by <a href="https://github.com/anascloud">@anascloud</a> · Dhaka, Bangladesh</sub>
 </div>
